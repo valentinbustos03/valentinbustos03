@@ -1,7 +1,7 @@
 # ¡Hola! 🙌 Soy Valentin Bustos.
 
 ## Sobre mi
-Futuro ingeniero en sistemas de la Univesidad Tecnológica Nacional regional Rosario y programador junior.
+Futuro ingeniero en sistemas de la Univesidad Tecnológica Nacional regional Rosario y programador.
 
 ## Tecnologias
 - Java
